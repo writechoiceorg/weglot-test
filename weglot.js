@@ -1,7 +1,5 @@
 Weglot.initialize({
-       api_key: 'wg_74ea5f282828370b0c827c288f63f15e2',
-       excluded_elements: ['title']
-   }); 
-  
+        api_key: 'wg_74ea5f282828370b0c827c288f63f15e2'
+    });   
 
    
